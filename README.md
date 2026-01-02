@@ -1,10 +1,10 @@
 # 🍽️ Progetto Ristorante - UI/UX Design
 
-**Scusami, mi sono dimenticato che al momento il mio progetto del ristorante esiste solo sotto forma di file Figma** 🙃.
+**Scusami, mi sono dimenticato che al momento il mio progetto del ristorante esiste solo sotto forma di file Figma** 🙃
 
-### 🖼️ Anteprima del Progetto (Screenshots)
+### 🖼️ Anteprima del Progetto
 
-Ecco come appare il design del ristorante:
+Ecco come appare il design del ristorante
 
 ![Anteprima 1](https://raw.githubusercontent.com/rxxddy/restaurant/refs/heads/main/files/Frame%20-%201%20.png)
 
